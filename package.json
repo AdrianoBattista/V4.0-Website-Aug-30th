@@ -1,0 +1,11 @@
+{
+  "name": "adriano-battista-research-authority-hub",
+  "version": "7.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-site.mjs",
+    "vercel-build": "node scripts/build-site.mjs",
+    "serve": "node scripts/serve.mjs"
+  }
+}
